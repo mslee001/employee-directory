@@ -37,6 +37,7 @@ class EmployeeResultContainer extends Component {
                     return 1;
                 }
             }
+            return 0;
         });
 
         if (newOrder === "desc") {
