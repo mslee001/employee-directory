@@ -21,9 +21,8 @@ npm i
 
 ## Screenshots
 <img src="screenshots/employee-directory.png"/>
+Filtered Results
 <img src="screenshots/filtered-results.png"/>
-
-
 
 ## License 
 This project is licensed under the MIT license.
