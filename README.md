@@ -2,6 +2,8 @@
 # React Employee Directory
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Deployed App: https://mslee001.github.io/employee-directory/
+
 ## Description
 A web page created with React that will display random users via an axios API call. The results are displayed in a table. The "Name" header column will before a sort. Click once for descending and twice for ascending. There is a search bar at the top which will filter the results based on first name in the table based on user input. Refreshing the page or hitting enter in the search field will perform another API call and a new list of users will be displayed.
 
@@ -9,7 +11,6 @@ A web page created with React that will display random users via an axios API ca
 * [Installation](#installation)
 * [Screenshots](#screenshots)
 * [License](#license)
-* [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
         
